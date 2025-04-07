@@ -1,0 +1,1 @@
+export default function App() { return <h1>Control Relevos Casino</h1>; }
